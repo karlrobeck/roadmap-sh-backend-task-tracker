@@ -6,6 +6,8 @@ This repository serves as a basic example of a task tracker CLI, demonstrating
 core concepts and functionalities. It's designed to be a starting point for
 building more complex task management systems.
 
+**Project Link**: https://roadmap.sh/projects/task-tracker
+
 **Key Features:**
 
 - **Create, Read, Update, Delete (CRUD) Operations:** Basic CRUD operations for
