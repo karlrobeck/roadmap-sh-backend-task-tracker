@@ -1,4 +1,4 @@
-use std::{cmp::max, fs, io::Write, path::Path};
+use std::{cmp::max, fs, path::Path};
 
 use chrono::Local;
 use clap::{Parser, Subcommand};
